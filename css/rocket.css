@@ -35,13 +35,13 @@
     transition: bottom 10000ms;
 }
 
-.body.body-state1 .rocket {
+body.body-state1 .rocket {
     transition: none;
 }
 
-.body.body-state3 .rocket,
-.body.body-state4 .rocket{
-    bottom: 1000px;
+body.body-state3 .rocket,
+body.body-state4 .rocket{
+    bottom: 1200px;
 }
 
 .state1, .state2, .state3, .state4, .state5 {
